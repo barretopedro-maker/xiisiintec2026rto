@@ -15,18 +15,22 @@ Estrutura do Repositório
 
 Contém as rotinas e os dados utilizados na detecção e validação do estado estacionário do sistema.
 <br>
+<br>
 02 - Reconciliacao/
 <br>
 
 Reúne os scripts aplicados ao processo de reconciliação de dados para garantia de consistência físico-química e operacional.
 <br>
+
 03 - Parametrizacao/
+<br>
 <br>
 
 Consolida os códigos dedicados à estimação e ajuste dos parâmetros do modelo preditivo e de controle.
 <br>
 
 04 - Otimizacao/
+<br>
 <br>
 
 Apresenta a formulação e a execução dos algoritmos de otimização aplicados à tomada de decisão no sistema.
