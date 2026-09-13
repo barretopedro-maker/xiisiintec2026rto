@@ -1,4 +1,4 @@
-# xiisiintec2026rtoReproducibilidade e Artefatos de Código — XII SIINTEC 2026
+# Reproducibilidade e Artefatos de Código — XII SIINTEC 2026
 Este repositório reúne o conjunto de dados, scripts e pipelines computacionais empregados no desenvolvimento do artigo científico submetido e apresentado no XII Simpósio Internacional de Inovação e Tecnologia (SIINTEC 2026).
 
 O projeto está estruturado de forma modular para garantir a auditabilidade, transparência e reprodutibilidade dos experimentos, dividindo-se nas seguintes etapas operacionais:
