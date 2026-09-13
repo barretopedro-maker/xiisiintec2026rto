@@ -35,7 +35,9 @@ Consolida os códigos dedicados à estimação e ajuste dos parâmetros do model
 
 Apresenta a formulação e a execução dos algoritmos de otimização aplicados à tomada de decisão no sistema.
 <br>
+<br>
 Como Utilizar
+<br>
 <br>
 Para reproduzir os resultados apresentados no artigo, execute as etapas sequencialmente respeitando a ordem numérica das diretivas de processamento (01 a 04).
 
